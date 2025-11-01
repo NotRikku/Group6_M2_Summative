@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   font-family: "Press Start 2P", "Courier New", monospace;
   color: #00ffff;
-  background-image: url("assets/BG.png");
+  background-image: url("BG.png");
   background-size: cover;        
   background-position: center;   
   background-attachment: fixed;  

@@ -3,7 +3,7 @@
   --card-bg: #111;
   --text: #00ffff;
   --highlight: #ffea00;
-  background-image: url("assets/BG.png");
+  background-image: url("BG.png");
   background-size: cover;     
   background-position: center;   
   background-attachment: fixed;  
